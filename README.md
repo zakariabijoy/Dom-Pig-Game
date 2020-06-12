@@ -1,5 +1,8 @@
 # Dom-Pig-Game
 
+![alt text](https://github.com/zakariabijoy/Dom-Pig-Game-/blob/master/game_ss.png)
+
+
 This is a JavaScript roll dice game developed by doing dom manipulation using js. 
 
 Game Rules:
